@@ -11,6 +11,7 @@ This is our personal developer portfolio and landing page, built to showcase our
 ## 📸 Live Demo
 
 🌐 [View Live on Netlify](http://127.0.0.1:5500/index.html) 
+   
    [View Repo on GitHub](https://github.com/Lionfish7777/Scrimba-portfolio-landing-page--main-branch-)
 
 ## 📦 Project Structure
