@@ -10,8 +10,8 @@ This is our personal developer portfolio and landing page, built to showcase our
 
 ## 📸 Live Demo
 
-🌐 [View Live on Netlify](https://your-scrimba-portfolio-site.netlify.app)  
-📁 [View Repo on GitHub](https://github.com/Lionfish7777/scrimba-portfolio)
+🌐 [View Live on Netlify]("https://your-scrimba-portfolio-site.netlify.app")  
+📁 [View Repo on GitHub]("https://github.com/Lionfish7777/Scrimba-portfolio-landing-page")
 
 ---
 
