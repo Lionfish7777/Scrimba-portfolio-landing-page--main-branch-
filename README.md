@@ -3,7 +3,6 @@
 
 # Lionfish7777 – Scrimba Portfolio & Developer Landing Page 🚀
 
-
 This is our personal developer portfolio and landing page, built to showcase our growing skillset, completed builds, and live projects as we scale our software and consulting career.
 
 ---
