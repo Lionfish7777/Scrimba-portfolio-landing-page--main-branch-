@@ -23,12 +23,19 @@
 }
 
 
+
 body, html {
     margin: 0;
-    padding: 10px;
+    padding: 0;                  /* remove default padding */
     background: var(--background);
     color: var(--text);
     font-family: var(--font);
+    display: flex;
+    justify-content: center;     /* center horizontally */
+}
+
+body {
+    width: 100%;
 }
 
 img {
@@ -84,10 +91,13 @@ button {
    4️⃣ LAYOUT: .container CLASS 👇
 ----------------------------- */
 .container {
-    max-width: 700px;        /* controls width on large screens */
-    margin: 0 auto;          /* centers horizontally */
-    padding: 20px;           /* inner breathing room */
-    text-align: center;      /* centers text and inline elements */
+    width: 100%;               /* allow full width by default */
+    max-width: 900px;          /* cap the width for readability */
+    min-width: 280px;          /* prevents layout collapse on small screens */
+    margin: 0 auto;            /* centers the container horizontally */
+    padding: 20px;             /* inner breathing room */
+    box-sizing: border-box;    /* ensures padding doesn’t break layout */
+    text-align: center;        /* centers text and inline elements */
 }
 
 /* ----------------------------
